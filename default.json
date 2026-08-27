@@ -3443,13 +3443,13 @@
     "HUD_ArrayList": {
       "x": 0.9138597,
       "y": 0.012500001,
-      "scaleX": 0.4299399,
-      "scaleY": 0.4299399,
+      "scaleX": 0.42989692,
+      "scaleY": 0.42989692,
       "resized": true
     },
     "HUD_Potions": {
       "x": 0.011769612,
-      "y": 0.31203613,
+      "y": 0.31887284,
       "scaleX": 1.1228523,
       "scaleY": 1.1228523,
       "resized": true
@@ -3490,8 +3490,8 @@
       "resized": false
     },
     "HUD_MusicPlayer": {
-      "x": 0.092330426,
-      "y": 0.07794415,
+      "x": 0.092330895,
+      "y": 0.08003518,
       "scaleX": 1.0153846,
       "scaleY": 1.0153846,
       "resized": true
@@ -3527,8 +3527,8 @@
     "HUD_Info_Row": {
       "x": 0.011769612,
       "y": 0.9291667,
-      "scaleX": 0.9944433,
-      "scaleY": 0.9944433,
+      "scaleX": 0.99438024,
+      "scaleY": 0.99438024,
       "resized": false
     },
     "hud_armor": {
